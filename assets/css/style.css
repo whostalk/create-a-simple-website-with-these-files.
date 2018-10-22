@@ -2,59 +2,6 @@
 
 /** ***************************************
 
-	TABLE OF CONTENTS
-	---------------------------
-	 1. Typography
-	 	- font-family: ;
-	 	- font-size: ;
-	 	- font-weight: ;
-	 	- letter-spacing: ;
-	 	- line-height: ;
-	 	- text-align: ;
-	 	- text-transform: ;
-	 	- text-decoration: ;
-	 2. Colors
-	 	- color: ;
-	 	- background-color: ;
-	 	- background: ;
-	 	- border: ;
-	 	- border-color: ;
-	 3. Loading
-	 4. Overlay & Background Layer
-	 5. Content
-		- Hide On Desktop
-	 	- Vertical Align
-	 	- Event Buttons
-	 	- You Tube
-	 	- Main Section
-	 		- Logo
-	 		- Slider
-	 		- Separator
-	 		- Paragraph & Social Icons
-	 	- Subscribe Section
-	 		- Counter
-	 		- Subscribe Form
-	 	- Contact Section
-	 6. Mobile Navigation
-	 7. Media Queries
-	 	- Tablets
-	 	- Mobiles
-	 		- Hide On Mobile
-	 		- Navigation
-	 		- Main
-	 		- Subscribe
-	 		- Contact
-
- **  ***************************************/
-
-/******************************************************************
-*******************************		1. TYPOGRAPHY
-******************************************************************/
-
-	/**************************************
-		font-family: ;
-	*************************************/
-
 		body, 
 		html
 		{	
